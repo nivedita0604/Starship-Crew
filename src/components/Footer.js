@@ -7,7 +7,7 @@ class Footer extends Component{
              <footer className="footer">
                 <p>Made By StarShip-Crew</p>
                {" "}
-                <a href="https://github.com/completejavascript/tic-tac-toe" target="_blank" rel="noreferrer noopener">Github</a> 
+                <a href="https://github.com/GeshikaSingh/Starship-Crew" target="_blank" rel="noreferrer noopener">Github</a> 
              </footer>
         );
     }

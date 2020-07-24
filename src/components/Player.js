@@ -7,6 +7,7 @@ export const SYMBOL_Types={
     X: 1
 }
 export const SYMBOLS= ['O','X'];
+//type of turns default will be human
 export const  TURNS={
     Human : 0,
     Computer: 1
@@ -67,7 +68,7 @@ export const replace = (cells, index, value) =>{
     return [...cells.slice(0,index) , value, ...cells.slice(index +1, cells.length)];
 
 }
-/*RANDOM MOVE*/
+/*RANDOM MOVES*/
 export const findRandomMove=(cells)=>{
     const emptycells = getEmptyCells(cells);
     if(emptycells.length > 0){
@@ -103,10 +104,10 @@ const calculate = (cells, computerType) =>{
     }
     return 0;
 }
-
+//minimax algorithm
 const minimax = (cells, depth , computerType , isMax)=>{
     const point = calculate(cells, computerType);
-
+//checking the score
     if(point === 10) return point - depth;
 
     if(point === -10) return point + depth;

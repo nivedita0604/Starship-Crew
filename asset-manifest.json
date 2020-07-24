@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/GeshikaSingh/Starship/static/css/main.aaadda0a.chunk.css",
-    "main.js": "/GeshikaSingh/Starship/static/js/main.a451f25c.chunk.js",
-    "main.js.map": "/GeshikaSingh/Starship/static/js/main.a451f25c.chunk.js.map",
-    "runtime-main.js": "/GeshikaSingh/Starship/static/js/runtime-main.2f4c8e95.js",
-    "runtime-main.js.map": "/GeshikaSingh/Starship/static/js/runtime-main.2f4c8e95.js.map",
-    "static/js/2.a02577f7.chunk.js": "/GeshikaSingh/Starship/static/js/2.a02577f7.chunk.js",
-    "static/js/2.a02577f7.chunk.js.map": "/GeshikaSingh/Starship/static/js/2.a02577f7.chunk.js.map",
-    "index.html": "/GeshikaSingh/Starship/index.html",
-    "precache-manifest.25fb8ab2a52e12f671af6bf9eda61d5b.js": "/GeshikaSingh/Starship/precache-manifest.25fb8ab2a52e12f671af6bf9eda61d5b.js",
-    "service-worker.js": "/GeshikaSingh/Starship/service-worker.js",
-    "static/css/main.aaadda0a.chunk.css.map": "/GeshikaSingh/Starship/static/css/main.aaadda0a.chunk.css.map",
-    "static/js/2.a02577f7.chunk.js.LICENSE.txt": "/GeshikaSingh/Starship/static/js/2.a02577f7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/GeshikaSingh/Starship/static/media/spaces.25a7d55c.png"
+    "main.css": "/GeshikaSingh/Starship-Crew/static/css/main.e27043e9.chunk.css",
+    "main.js": "/GeshikaSingh/Starship-Crew/static/js/main.9cbb558c.chunk.js",
+    "main.js.map": "/GeshikaSingh/Starship-Crew/static/js/main.9cbb558c.chunk.js.map",
+    "runtime-main.js": "/GeshikaSingh/Starship-Crew/static/js/runtime-main.d71500eb.js",
+    "runtime-main.js.map": "/GeshikaSingh/Starship-Crew/static/js/runtime-main.d71500eb.js.map",
+    "static/js/2.a02577f7.chunk.js": "/GeshikaSingh/Starship-Crew/static/js/2.a02577f7.chunk.js",
+    "static/js/2.a02577f7.chunk.js.map": "/GeshikaSingh/Starship-Crew/static/js/2.a02577f7.chunk.js.map",
+    "index.html": "/GeshikaSingh/Starship-Crew/index.html",
+    "precache-manifest.d7ce022987a5355ceae5bcc1dfde3a16.js": "/GeshikaSingh/Starship-Crew/precache-manifest.d7ce022987a5355ceae5bcc1dfde3a16.js",
+    "service-worker.js": "/GeshikaSingh/Starship-Crew/service-worker.js",
+    "static/css/main.e27043e9.chunk.css.map": "/GeshikaSingh/Starship-Crew/static/css/main.e27043e9.chunk.css.map",
+    "static/js/2.a02577f7.chunk.js.LICENSE.txt": "/GeshikaSingh/Starship-Crew/static/js/2.a02577f7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/GeshikaSingh/Starship-Crew/static/media/spaces.25a7d55c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f4c8e95.js",
+    "static/js/runtime-main.d71500eb.js",
     "static/js/2.a02577f7.chunk.js",
-    "static/css/main.aaadda0a.chunk.css",
-    "static/js/main.a451f25c.chunk.js"
+    "static/css/main.e27043e9.chunk.css",
+    "static/js/main.9cbb558c.chunk.js"
   ]
 }
